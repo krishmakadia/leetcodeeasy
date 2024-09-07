@@ -1,0 +1,2 @@
+# leetcodeeasy
+easy-leetcode
