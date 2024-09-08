@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> //palindrome easy-2
 #include<algorithm>
 using namespace std;
 void palindrome(string s)

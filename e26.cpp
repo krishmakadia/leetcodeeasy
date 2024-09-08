@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //remove duplicates from sorted array easy-26
 using namespace std;
 
 int dupl(int arr[], int n) {
